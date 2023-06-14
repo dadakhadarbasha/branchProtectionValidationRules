@@ -1,1 +1,3 @@
 # branchProtectionValidationRules
+
+# Test Rule
